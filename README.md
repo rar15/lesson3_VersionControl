@@ -1,18 +1,19 @@
+# Project Name:  Lesson 3 Version Control
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+## Course Title:
+LIS 2360:  Web Application Development
 
+## Assignment Date:  
+(06/01, 2017)
 
-Hi there! Welcome to Cloud9 IDE!
+## Student Name:  
+(Rick Reinhard)
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
+## Project Description:
+(This projects tests are abilities to explain key concepts, edit text to display the summarizations of those key concepts, and publish a website about those key concepts)
 
-Happy coding!
-The Cloud9 IDE team# lesson3_versioncontrol
+## Lessons Learned in the Assignment:
+1. (Local repositores vs. Remote repositores. Local repositores are for only one user, while Remote repositories are for a whole team of people)
+2. (Git is the VCS software that we will use to store our work)
+3. (VCS, or version control system, allows people to work on files, share them with other people, and access files that other people have worked on.)
+
