@@ -9,6 +9,9 @@ LIS 2360:  Web Application Development
 ## Student Name:  
 (Rick Reinhard)
 
+## View project:
+https://rar15.github.io/lesson3_VersionControl/ (For some reason this isn't uploading my pictures and navagation bar headers)
+
 ## Project Description:
 (This projects tests are abilities to explain key concepts, edit text to display the summarizations of those key concepts, and publish a website about those key concepts)
 
